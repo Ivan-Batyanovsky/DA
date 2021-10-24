@@ -2,7 +2,7 @@
 
 [Поразрядная сортировка](https://github.com/Ivan-Batyanovsky/DA/tree/master/Radix%20Sort)
 
-[Красно черное дерево(не забудь вставить)](https://github.com/Ivan-Batyanovsky/DA/tree/master/Red%20Black%20Tree)
+[Красно черное дерево](https://github.com/Ivan-Batyanovsky/DA/tree/master/Red%20Black%20Tree)
 
 Динамическое программирование
 

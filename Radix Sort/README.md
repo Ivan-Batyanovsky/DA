@@ -14,16 +14,28 @@
 На каждой непустой строке входного файла располагается пара «ключ-значение», в которой ключ указан согласно заданию, затем следует знак табуляции и указано соответствующее значение.
 
 ## Формат результата
+
 Выходные данные состоят из тех же строк, что и входные, за исключением пустых и порядка следования.
 
 ## Примеры
+
 ## Входные данные
+
 00000000000000000000000000000000  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naatt
+
 ffffffffffffffffffffffffffffffff  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naat
+
 00000000000000000000000000000000  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naa
+
 ffffffffffffffffffffffffffffffff  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3na
+
 ## Результат работы
+
 00000000000000000000000000000000 n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naatt
+
 00000000000000000000000000000000  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naa
+
 ffffffffffffffffffffffffffffffff  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3naat
+
 ffffffffffffffffffffffffffffffff  n399tann9nnt3ttnaaan9nann93na9t3a3t9999na3aan9antt3tn93aat3na
+
